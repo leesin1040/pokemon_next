@@ -21,7 +21,7 @@ export default function RootLayout({
         suppressHydrationWarning
         suppressContentEditableWarning
       >
-        <header className="w-full g-[60px] bg-[#ff7ac3] text-center pt-[1rem]">
+        <header className="w-full g-[60px] bg-[#ffc0e2] text-center pt-[1rem]">
           <h2 className="text-[3rem] font-bold">포켓몬 도감</h2>
         </header>
         {children}
