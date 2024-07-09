@@ -27,7 +27,7 @@ pnpm dev
 # or
 bun dev
 ```
-5. 브라우저에서 `http://localhost:3000`을 열어 웹사이트를 확인합니다.
+브라우저에서 `http://localhost:3000`을 열어 웹사이트를 확인합니다.
 
 ## 폴더 구조
 
