@@ -18,23 +18,15 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,git,&theme=light)](https://skillicons.dev)
 
 ## 설치 및 실행
-
-1. 저장소를 클론합니다.
-    ```bash
-    git clone https://github.com/your-repo/pokemon-list.git
-    ```
-2. 프로젝트 디렉토리로 이동합니다.
-    ```bash
-    cd pokemon-list
-    ```
-3. 필요한 패키지를 설치합니다.
-    ```bash
-    npm install
-    ```
-4. 개발 서버를 실행합니다.
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 5. 브라우저에서 `http://localhost:3000`을 열어 웹사이트를 확인합니다.
 
 ## 폴더 구조
